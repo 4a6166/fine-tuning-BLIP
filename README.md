@@ -55,6 +55,13 @@ The final cells of this notebook access images from outside of the training set 
 [screenshots]
 
 ## Credits
+This project was completed as a final project for UPenn's Data Analytics bootcamp.
+Project contributors are as follows:
+- Ryodai Matsui (Github: ryodaimatsui)
+- Andrew Belfiglio (Github: andrewbelfiglio)
+- Shikha Patel (Github: Shikha0594)
+- Jacob Field (Github: 4a6166)
+
 The base model used for this project was [BLIP](https://huggingface.co/Salesforce/blip-image-captioning-large), an LLM created by Salesforce and accessed through [Hugging Face](https://huggingface.co).
 
 Training images in this project were obtained from Adobe Stock through an Education License and may not be repurposed by third parties. The Education License permits faculty members and staff members to use, reproduce, archive, modify, and display the asset: for advertising, marketing, promotional, and decoration purposes related solely to the Enterprise, for professional and academic activities related solely to the Enterprise, and not for any other commercial purpose. Students may use, reproduce, archive, modify, and display the asset in all media, solely in connection with course work at the Enterprise, and not for any other commercial or paid purposes. The use of these licensed images is therefore intended for the contributors to this educational project, as part of the edX bootcamp in collaboration with the University of Pennsylvania, and may not be used in other ways.
